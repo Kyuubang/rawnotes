@@ -5,8 +5,6 @@ draft: false
 tags: [cybersecurity, lab-setup]
 ---
 
-## Installing DVWA with VirtualHost httpd
-
 This note will guide you to installing DVWA with httpd on centos 7/8
 
 <!--more-->
