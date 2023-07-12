@@ -1,6 +1,6 @@
 baseURL = "https://kyuubang.github.io/"
 languageCode = "en-us"
-title = "Archie"
+title = ">_ rawnotes"
 theme="archie"
 copyright = "© Kyuubang"
 pygmentsstyle = "monokai"
@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "Raw note for mostly coding snippet, configuration, and cheatsheet."
 
 [[params.social]]
 name = "GitHub"
