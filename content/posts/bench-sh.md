@@ -5,4 +5,4 @@ draft: false
 tags: [infrastructure, shell]
 ---
 
-{{< gist 4b6e070a2eefcced2ea26b923817ba1c >}}
+{{< gist Kyuubang 4b6e070a2eefcced2ea26b923817ba1c >}}
