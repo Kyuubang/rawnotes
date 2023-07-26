@@ -17,6 +17,11 @@ name = "GitHub"
 icon = "github"
 url = "https://github.com/Kyuubang"
 
+[[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://linkedin.com/in/ahmadbayhaqi"
+
 [[menu.main]]
 name = "Home"
 url = "/"
