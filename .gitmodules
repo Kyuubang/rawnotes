@@ -1,5 +1,4 @@
 [submodule "themes/archie"]
 	path = themes/archie
-	url = https://github.com/athul/archie.git
-[submodule "git@github.com:Kyuubang/archie.git"]
-	url = themes/archie
+	url = https://github.com/Kyuubang/archie.git
+
